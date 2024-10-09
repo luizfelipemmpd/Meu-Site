@@ -1,6 +1,7 @@
 body {
     color:blue;
-    background-color:aquamarine
+    background-color: #d7faf5a8;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 ul {
@@ -9,4 +10,21 @@ ul {
     list-style-type: none;
     align-items: center;
     padding: 16px;
+}
+
+a {
+    color: aqua;
+    text-decoration:none ;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid green;
+}
+
+.center {
+    text-align: center;
+
 }
